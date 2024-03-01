@@ -101,7 +101,7 @@ You need to first download our WSBEV dataset and run [pip3 install -r requiremen
 
 ## Visualization Samples
 <p align="center">
-<img src="./fig/3.png" width="800"/>
+<img src="./fig/3.png" width="600"/>
 </figure> 
 </p>
 
