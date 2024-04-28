@@ -15,7 +15,10 @@ Autonomous surface vessels (ASVs) are growing rapidly due to their ability to ex
 </p>
 
 ## WSBEV datasets link
-Coming soon ...
+The sample dataset has been released at [Google Drive](https://drive.google.com/file/d/1cAqs7MFdctqjx4AtJC9saqGUEy72MaC2/view?usp=sharing).
+
+As the WSBEV dataset is supported by ORCA-Uboat company, we only expect that the WSBEV dataset is utilized in academic research but commercial usage. Therefore, a research qualification verification is needed in dataset request stage. Full dataset request can be directly obtained through an email qualification verification (xhu@orca-tech.com.cn). 
+
 
 
 ## How to use WSBEV datasets
@@ -92,16 +95,9 @@ To address the limitations of existing visual BEV perception methods against the
 </figure> 
 </p>
 
-### Model Usage
-You need to first download our WSBEV dataset and run [pip3 install -r requirement.txt] for running environemnt
-1. Configure your dataset path in [data.config]
-2. To train Hybrid-BEV model, please run [python3 train.py], and get trained model weight (xxx.pt)
-3. To eval Hybrid-BEV model, please run [python3 eval.py -m xxx.pt]
-4. To visualize Hybrid-BEV model, please run [python3 visualize.py -m xxx.pt]
-
 ## Visualization Samples
 <p align="center">
-<img src="./fig/3.png" width="800"/>
+<img src="./fig/3.png" width="600"/>
 </figure> 
 </p>
 
